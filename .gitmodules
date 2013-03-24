@@ -1,3 +1,21 @@
 [submodule "includes"]
 	path = includes
 	url = https://github.com/de7ec7ed/vertigo-includes.git
+[submodule "make"]
+	path = make
+	url = https://github.com/de7ec7ed/vertigo-make.git
+[submodule "doxygen"]
+	path = doxygen
+	url = https://github.com/de7ec7ed/vertigo-doxygen.git
+[submodule "applications"]
+	path = applications
+	url = https://github.com/de7ec7ed/vertigo-applications.git
+[submodule "kernel"]
+	path = kernel
+	url = https://github.com/de7ec7ed/vertigo-kernel.git
+[submodule "modules"]
+	path = modules
+	url = https://github.com/de7ec7ed/vertigo-modules.git
+[submodule "libraries"]
+	path = libraries
+	url = https://github.com/de7ec7ed/vertigo-libraries.git
