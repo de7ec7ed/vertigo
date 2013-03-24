@@ -1,6 +1,3 @@
-
-USERNAME := de7ec7ed
-
 BINARIESDIR := binaries
 OBJECTSDIR := objects
 
