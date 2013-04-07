@@ -19,3 +19,6 @@
 [submodule "libraries"]
 	path = libraries
 	url = https://github.com/de7ec7ed/vertigo_libraries.git
+[submodule "documents"]
+	path = documents
+	url = https://github.com/de7ec7ed/vertigo_documents.git
