@@ -1,24 +1,24 @@
 [submodule "includes"]
 	path = includes
-	url = https://github.com/de7ec7ed/vertigo_includes.git
+	url = https://bitbucket.org/de7ec7ed/vertigo_includes.git
 [submodule "make"]
 	path = make
-	url = https://github.com/de7ec7ed/vertigo_make.git
+	url = https://bitbucket.org/de7ec7ed/vertigo_make.git
 [submodule "doxygen"]
 	path = doxygen
-	url = https://github.com/de7ec7ed/vertigo_doxygen.git
+	url = https://bitbucket.org/de7ec7ed/vertigo_doxygen.git
 [submodule "applications"]
 	path = applications
-	url = https://github.com/de7ec7ed/vertigo_applications.git
+	url = https://bitbucket.org/de7ec7ed/vertigo_applications.git
 [submodule "kernel"]
 	path = kernel
-	url = https://github.com/de7ec7ed/vertigo_kernel.git
+	url = https://bitbucket.org/de7ec7ed/vertigo_kernel.git
 [submodule "modules"]
 	path = modules
-	url = https://github.com/de7ec7ed/vertigo_modules.git
+	url = https://bitbucket.org/de7ec7ed/vertigo_modules.git
 [submodule "libraries"]
 	path = libraries
-	url = https://github.com/de7ec7ed/vertigo_libraries.git
+	url = https://bitbucket.org/de7ec7ed/vertigo_libraries.git
 [submodule "documents"]
 	path = documents
-	url = https://github.com/de7ec7ed/vertigo_documents.git
+	url = https://bitbucket.org/de7ec7ed/vertigo_documents.git
